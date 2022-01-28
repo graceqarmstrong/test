@@ -12,5 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r}
 # setting x as 1
 x <- 1
+# setting y as 2
+y <- 2
 ```
-
